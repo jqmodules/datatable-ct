@@ -33,10 +33,10 @@
   "_resolution": {
     "type": "version",
     "tag": "1.0.0",
-    "commit": "74fd9c1901fb2b494f8395959a708e6eb8978bbd"
+    "commit": "98df53b611f86cf8f61619e11cf2252dd1313e14"
   },
-  "_source": "git://github.com/DataTables/DataTables.git",
-  "_target": "~1.10.10",
-  "_originalSource": "datatables",
+  "_source": "https://github.com/jqmodules/datatable-ct.git",
+  "_target": "~1.0.0",
+  "_originalSource": "datatable-ct",
   "_direct": true
 }

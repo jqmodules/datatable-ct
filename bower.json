@@ -1,6 +1,6 @@
 {
 	"name": "datatable-ct",
-	"version": "1.10.10",
+	"version": "1.0.0",
 	"main": [
 		"media/js/jquery.dataTables.js",
 		"media/css/jquery.dataTables.css",
